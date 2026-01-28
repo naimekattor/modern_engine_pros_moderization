@@ -1,10 +1,5 @@
 {
   "pages": {
-    "/api/send-vehicle-email/route": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/api/send-vehicle-email/route.js"
-    ],
     "/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
