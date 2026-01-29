@@ -5,21 +5,21 @@ const coreServices = [
     title: "Valve Job Services",
     description:
       "Precision cylinder head disassembly, inspection, machining, and reassembly — including pressure testing, resurfacing, valve seating, and guide work as required.",
-    image: "/images/serv1.jpg",
+    image: "/images/CustomerandManager.png",
     caption: "Cylinder head inspection, valve seating, and guide work",
   },
   {
     title: "Short Block Services",
     description:
       "Complete short block rebuilds including block machining, crankshaft work, bearings, pistons, rings, timing components, and internal tolerances — assembled and verified.",
-    image: "/images/serv1.jpg",
+    image: "/images/MEPWorkingShortblock.png",
     caption: "Block machining, crankshaft fitting, and bearing clearances",
   },
   {
     title: "Long Block Services",
     description:
       "Fully assembled long blocks combining short block and cylinder head work, including oil pump, timing set, gaskets, lifters, and verification checks.",
-    image: "/images/serv2.jpg",
+    image: "/images/MEPImagesCylinderhead.png",
     caption: "Complete long block assembly and final verification",
   },
 ];

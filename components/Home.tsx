@@ -11,6 +11,7 @@ import EducationHub from './EducationHub';
 import VehicleIntakeForm from './VehicleIntakeForm';
 import StoreLinks from './StoreLinks';
 import Contact from './Contact';
+import CylinderHeadSlideshow from './CylinderHeadSlideshow';
 
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
@@ -57,6 +58,8 @@ const Home: React.FC = () => {
       <About />
       {/* What We Do + Core Services */}
       <Services />
+      {/* Precision Showcase */}
+      <CylinderHeadSlideshow />
       {/* Process Steps */}
       <HowItWorks />
       {/* Authority / Education */}

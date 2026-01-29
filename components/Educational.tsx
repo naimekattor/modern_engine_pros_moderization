@@ -13,7 +13,7 @@ const Educational: React.FC = () => {
           <div className="md:col-span-6">
             <div className="rounded-xl overflow-hidden shadow-xl">
               <img 
-                src="/images/edu.jpg" // Replace with real shop/engine image
+                src="/images/MEPImagesCylinderhead.png" 
                 alt="Engine inspection or machining"
                 className="w-full h-full object-cover"
               />

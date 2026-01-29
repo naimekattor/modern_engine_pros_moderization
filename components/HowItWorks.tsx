@@ -7,7 +7,7 @@ const steps = [
     description:
       "Root-cause diagnostics including compression testing, leak-down results, teardown findings, and measurement review before any recommendation is made.",
     image:
-      "/images/hiw1.jpg",
+      "/images/Mask group (4).jpg",
     caption: "Compression testing and measurement verification",
   },
   {
@@ -16,7 +16,7 @@ const steps = [
     description:
       "Repair, rebuild, or replacement options are reviewed using real measurements, cost ranges, and long-term risk — then locked before work begins.",
     image:
-      "/images/hiw2.avif",
+      "/images/Mask group (3).jpg",
     caption: "Reviewing findings and locking scope of work",
   },
   {
@@ -25,7 +25,7 @@ const steps = [
     description:
       "Machining and assembly executed to factory specifications — including clearances, torque values, surface finish, and component verification.",
     image:
-      "/images/hiw3.jpg",
+      "/images/Mask group (1).jpg",
     caption: "Block machining and component assembly",
   },
   {
@@ -34,7 +34,7 @@ const steps = [
     description:
       "Final inspection, pre-install verification, and documentation review to confirm the engine meets agreed specifications before release.",
     image:
-      "/images/hiw4.jpg",
+      "/images/Mask group (2).jpg",
     caption: "Final inspection prior to delivery or installation",
   },
 ];

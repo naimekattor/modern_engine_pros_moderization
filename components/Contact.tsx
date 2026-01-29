@@ -79,7 +79,7 @@ const Contact: React.FC = () => {
               {/* Accent image: engine close-up */}
               <div className="rounded-3xl overflow-hidden shadow-lg border border-[#4A5568]/10">
                 <img 
-                  src="/images/exp3.jpg" 
+                  src="/images/CustomerandManager.png" 
                   alt="Precision remanufactured engine detail" 
                   className="w-full h-64 object-cover hover:scale-105 transition-transform duration-700"
                 />
