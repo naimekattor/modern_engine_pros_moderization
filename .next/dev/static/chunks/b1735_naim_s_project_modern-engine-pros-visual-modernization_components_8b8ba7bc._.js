@@ -132,7 +132,7 @@ const Hero = ()=>{
                         columnNumber: 9
                     }, ("TURBOPACK compile-time value", void 0)),
                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$naim_s_project$2f$modern$2d$engine$2d$pros$2d$visual$2d$modernization$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                        className: "reveal w-full max-w-5xl bg-white shadow-sm border border-[#4A5568]/10 rounded-xl p-6 md:p-8",
+                        className: "reveal w-full max-w-5xl bg-white shadow-sm border border-[#4A5568]/10 rounded-xl p-6 md:p-8 mb-4",
                         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$naim_s_project$2f$modern$2d$engine$2d$pros$2d$visual$2d$modernization$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 text-left",
                             children: [
@@ -1546,7 +1546,7 @@ const Educational = ()=>{
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$naim_s_project$2f$modern$2d$engine$2d$pros$2d$visual$2d$modernization$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                     href: "#education-hub",
-                                    className: "inline-flex items-center justify-center bg-[#003366] text-white px-8 py-4 rounded font-bold text-lg transition-all hover:bg-[#002244] hover:shadow-lg hover:-translate-y-0.5",
+                                    className: "inline-flex items-center justify-center bg-[#003366] text-white px-8 py-4 rounded font-bold md:text-lg text-sm transition-all hover:bg-[#002244] hover:shadow-lg hover:-translate-y-0.5",
                                     children: "Learn How to Avoid Costly Engine Mistakes"
                                 }, void 0, false, {
                                     fileName: "[project]/OneDrive/Desktop/naim_s_project/modern-engine-pros-visual-modernization/components/Educational.tsx",
@@ -2990,7 +2990,7 @@ const VehicleIntakeForm = ()=>{
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$naim_s_project$2f$modern$2d$engine$2d$pros$2d$visual$2d$modernization$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
                                         type: "submit",
                                         disabled: loading,
-                                        className: `flex items-center justify-center gap-2 bg-[#003366] text-white px-8 py-4 rounded font-bold text-lg transition-all ${loading ? 'opacity-70 cursor-not-allowed' : 'hover:bg-[#002244] hover:shadow-lg hover:-translate-y-0.5'}`,
+                                        className: `flex items-center justify-center gap-2 bg-[#003366] text-white px-8 py-4 rounded font-bold md:text-lg text-sm transition-all ${loading ? 'opacity-70 cursor-not-allowed' : 'hover:bg-[#002244] hover:shadow-lg hover:-translate-y-0.5'}`,
                                         children: loading ? /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$naim_s_project$2f$modern$2d$engine$2d$pros$2d$visual$2d$modernization$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$naim_s_project$2f$modern$2d$engine$2d$pros$2d$visual$2d$modernization$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["Fragment"], {
                                             children: [
                                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$naim_s_project$2f$modern$2d$engine$2d$pros$2d$visual$2d$modernization$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("svg", {
@@ -3047,7 +3047,7 @@ const VehicleIntakeForm = ()=>{
                                                 email: '',
                                                 phone: ''
                                             }),
-                                        className: "text-[#003366] px-6 py-2 font-semibold hover:text-[#002244] transition",
+                                        className: "text-[#003366] px-6 py-2 font-semibold hover:text-[#002244] transition border border-[#003366] rounded-lg",
                                         children: "Clear Form"
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Desktop/naim_s_project/modern-engine-pros-visual-modernization/components/VehicleIntakeForm.tsx",

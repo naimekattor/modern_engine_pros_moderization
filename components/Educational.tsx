@@ -41,7 +41,7 @@ const Educational: React.FC = () => {
 
             <a 
               href="#education-hub" 
-              className="inline-flex items-center justify-center bg-[#003366] text-white px-8 py-4 rounded font-bold text-lg transition-all hover:bg-[#002244] hover:shadow-lg hover:-translate-y-0.5"
+              className="inline-flex items-center justify-center bg-[#003366] text-white px-8 py-4 rounded font-bold md:text-lg text-sm transition-all hover:bg-[#002244] hover:shadow-lg hover:-translate-y-0.5"
             >
               Learn How to Avoid Costly Engine Mistakes
             </a>

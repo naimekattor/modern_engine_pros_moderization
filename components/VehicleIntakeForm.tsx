@@ -287,7 +287,7 @@ const VehicleIntakeForm: React.FC = () => {
                 <button
                   type="submit"
                   disabled={loading}
-                  className={`flex items-center justify-center gap-2 bg-[#003366] text-white px-8 py-4 rounded font-bold text-lg transition-all ${
+                  className={`flex items-center justify-center gap-2 bg-[#003366] text-white px-8 py-4 rounded font-bold md:text-lg text-sm transition-all ${
                     loading ? 'opacity-70 cursor-not-allowed' : 'hover:bg-[#002244] hover:shadow-lg hover:-translate-y-0.5'
                   }`}
                 >
@@ -306,7 +306,7 @@ const VehicleIntakeForm: React.FC = () => {
                 <button
                   type="button"
                   onClick={() => setForm({ year: '', make: '', model: '', engineSize: '', vin: '', notes: '', name: '', email: '', phone: '' })}
-                  className="text-[#003366] px-6 py-2 font-semibold hover:text-[#002244] transition"
+                  className="text-[#003366] px-6 py-2 font-semibold hover:text-[#002244] transition border border-[#003366] rounded-lg"
                 >
                   Clear Form
                 </button>

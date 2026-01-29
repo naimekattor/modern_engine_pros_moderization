@@ -54,7 +54,7 @@ const Hero: React.FC = () => {
         </div>
 
         {/* Trust Strip */}
-        <div className="reveal w-full max-w-5xl bg-white shadow-sm border border-[#4A5568]/10 rounded-xl p-6 md:p-8">
+        <div className="reveal w-full max-w-5xl bg-white shadow-sm border border-[#4A5568]/10 rounded-xl p-6 md:p-8 mb-4">
           <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6 text-left">
             {[
               "Built by engine professionals",
