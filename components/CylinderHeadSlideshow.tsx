@@ -5,25 +5,25 @@ import gsap from 'gsap';
 
 const images = [
   {
-    url: "/images/MOD185-Dodge5.7L 53021616AJ-1 (1).jpg",
+    url: "/images/slide1.jpg",
     caption: "Cylinder Head Inspection & Precision Measurement"
   },
   {
-    url: "/images/MOD185-Dodge5.7L 53021616AJ-1.jpg",
+    url: "/images/slide2.jpg",
     caption: "Compression Testing & Valve Leak-Down Verification"
   },
   {
-    url: "/images/MOD185-Dodge5.7L 53021616AJ-3 (1).jpg",
+    url: "/images/slide3.jpg",
     caption: "Precision Valve Seat Machining"
   },
   {
-    url: "/images/MOD185-Dodge5.7L 53021616AJ-3.jpg",
+    url: "/images/slide4.jpg",
     caption: "Advanced Machining & Surface Finishes"
   },
-  {
-    url: "/images/MOD185-Dodge5.7L 53021616AJ-5 EGR (1).jpg",
-    caption: "Final Assembly & Quality Control Approval"
-  }
+  // {
+  //   url: "/images/slide1.jpg",
+  //   caption: "Final Assembly & Quality Control Approval"
+  // }
 ];
 
 const CylinderHeadSlideshow: React.FC = () => {

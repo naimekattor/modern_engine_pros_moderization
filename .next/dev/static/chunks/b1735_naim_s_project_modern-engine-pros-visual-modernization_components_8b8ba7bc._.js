@@ -786,7 +786,7 @@ const About = ()=>{
                                         className: "relative rounded-xl overflow-hidden shadow-lg",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$naim_s_project$2f$modern$2d$engine$2d$pros$2d$visual$2d$modernization$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                src: "/images/CustomerandManager.png",
+                                                src: "/images/Mask group (3).jpg",
                                                 alt: "Engine machining shop floor",
                                                 className: "w-full h-full object-cover"
                                             }, void 0, false, {
@@ -812,7 +812,7 @@ const About = ()=>{
                                         className: "relative rounded-xl overflow-hidden shadow-lg",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$naim_s_project$2f$modern$2d$engine$2d$pros$2d$visual$2d$modernization$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                src: "/images/Customercusoltion.png",
+                                                src: "/images/CustomerPartsrepairTransparency.png",
                                                 alt: "Measuring engine tolerances",
                                                 className: "w-full h-full object-cover"
                                             }, void 0, false, {
@@ -838,7 +838,7 @@ const About = ()=>{
                                         className: "relative col-span-2 rounded-xl overflow-hidden shadow-xl",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Desktop$2f$naim_s_project$2f$modern$2d$engine$2d$pros$2d$visual$2d$modernization$2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["jsxDEV"])("img", {
-                                                src: "/images/CustomerPartsrepairTransparency.png",
+                                                src: "/images/Customercusoltion.png",
                                                 alt: "Engine block inspection",
                                                 className: "w-full h-full object-cover"
                                             }, void 0, false, {
@@ -910,7 +910,7 @@ const coreServices = [
     {
         title: "Valve Job Services",
         description: "Precision cylinder head disassembly, inspection, machining, and reassembly — including pressure testing, resurfacing, valve seating, and guide work as required.",
-        image: "/images/CustomerandManager.png",
+        image: "/images/MEPImagesCylinderhead.png",
         caption: "Cylinder head inspection, valve seating, and guide work"
     },
     {
@@ -922,7 +922,7 @@ const coreServices = [
     {
         title: "Long Block Services",
         description: "Fully assembled long blocks combining short block and cylinder head work, including oil pump, timing set, gaskets, lifters, and verification checks.",
-        image: "/images/MEPImagesCylinderhead.png",
+        image: "/images/longblock.png",
         caption: "Complete long block assembly and final verification"
     }
 ];
@@ -1241,14 +1241,14 @@ const steps = [
         number: "01",
         title: "Verified Assessment",
         description: "Root-cause diagnostics including compression testing, leak-down results, teardown findings, and measurement review before any recommendation is made.",
-        image: "/images/Mask group (4).jpg",
+        image: "/images/Mask group (3).jpg",
         caption: "Compression testing and measurement verification"
     },
     {
         number: "02",
         title: "Decision Lock",
         description: "Repair, rebuild, or replacement options are reviewed using real measurements, cost ranges, and long-term risk — then locked before work begins.",
-        image: "/images/Mask group (3).jpg",
+        image: "/images/Mask group (4).jpg",
         caption: "Reviewing findings and locking scope of work"
     },
     {
@@ -3856,24 +3856,20 @@ var _s = __turbopack_context__.k.signature();
 ;
 const images = [
     {
-        url: "/images/MOD185-Dodge5.7L 53021616AJ-1 (1).jpg",
+        url: "/images/slide1.jpg",
         caption: "Cylinder Head Inspection & Precision Measurement"
     },
     {
-        url: "/images/MOD185-Dodge5.7L 53021616AJ-1.jpg",
+        url: "/images/slide2.jpg",
         caption: "Compression Testing & Valve Leak-Down Verification"
     },
     {
-        url: "/images/MOD185-Dodge5.7L 53021616AJ-3 (1).jpg",
+        url: "/images/slide3.jpg",
         caption: "Precision Valve Seat Machining"
     },
     {
-        url: "/images/MOD185-Dodge5.7L 53021616AJ-3.jpg",
+        url: "/images/slide4.jpg",
         caption: "Advanced Machining & Surface Finishes"
-    },
-    {
-        url: "/images/MOD185-Dodge5.7L 53021616AJ-5 EGR (1).jpg",
-        caption: "Final Assembly & Quality Control Approval"
     }
 ];
 const CylinderHeadSlideshow = ()=>{

@@ -125,7 +125,7 @@ const About: React.FC = () => {
             <div className="grid grid-cols-2 gap-4">
               <div className="relative rounded-xl overflow-hidden shadow-lg">
                 <img
-                  src="/images/CustomerandManager.png"
+                  src="/images/Mask group (3).jpg"
                   alt="Engine machining shop floor"
                   className="w-full h-full object-cover"
                 />
@@ -136,7 +136,7 @@ const About: React.FC = () => {
 
               <div className="relative rounded-xl overflow-hidden shadow-lg">
                 <img
-                  src="/images/Customercusoltion.png"
+                  src="/images/CustomerPartsrepairTransparency.png"
                   alt="Measuring engine tolerances"
                   className="w-full h-full object-cover"
                 />
@@ -147,7 +147,7 @@ const About: React.FC = () => {
 
               <div className="relative col-span-2 rounded-xl overflow-hidden shadow-xl">
                 <img
-                  src="/images/CustomerPartsrepairTransparency.png"
+                  src="/images/Customercusoltion.png"
                   alt="Engine block inspection"
                   className="w-full h-full object-cover"
                 />

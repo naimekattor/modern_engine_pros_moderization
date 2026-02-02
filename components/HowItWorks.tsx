@@ -7,7 +7,7 @@ const steps = [
     description:
       "Root-cause diagnostics including compression testing, leak-down results, teardown findings, and measurement review before any recommendation is made.",
     image:
-      "/images/Mask group (4).jpg",
+      "/images/Mask group (3).jpg",
     caption: "Compression testing and measurement verification",
   },
   {
@@ -16,7 +16,7 @@ const steps = [
     description:
       "Repair, rebuild, or replacement options are reviewed using real measurements, cost ranges, and long-term risk — then locked before work begins.",
     image:
-      "/images/Mask group (3).jpg",
+      "/images/Mask group (4).jpg",
     caption: "Reviewing findings and locking scope of work",
   },
   {
